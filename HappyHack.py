@@ -12,7 +12,7 @@ def menu():
 =============================================
  TERMUX
  Check our blog https://fenixsecuritymx.com 
- Script by Rodrigo Franco 3:D
+ Script by LUC1F3R
 ------------------------------------------
 1. Instala Nmap 
 2. Instala Hydra 
